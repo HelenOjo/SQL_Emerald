@@ -53,7 +53,7 @@
 ##### •	Recruitment Channel with Highest Attrition: "Other" (16.84%), "Sourcing" (15.24%)and "Referred" have the lowest attrition (12.5%).
 ##### •	Gender Distribution: Males (1,069 employees) dominate the workforce, while females make up 27% (401 employees).
 
-### INSIGHT
+### KEY INSIGHTS
 ##### •	A mid-career-heavy workforce, with fewer senior employees, raising concerns about leadership succession planning.
 ##### •	Finance and Legal teams experience higher turnover, potentially due to work pressure, compensation concerns, or job dissatisfaction.
 ##### •	Job satisfaction is directly linked to attrition. Low job satisfaction in R&D suggests poor work culture, limited career growth, or compensation issues.
