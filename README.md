@@ -34,7 +34,14 @@
 ##### •	Correlation Analysis: Use correlation coefficients to see relationships between salary, training, and performance.
 
 Emerald_SQL Query - Watch Video
-
+<div>
+    <a href="https://www.loom.com/share/686a491328c548ad92e752219875f0f5">
+      <p>Emerald_SQL Query - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/686a491328c548ad92e752219875f0f5">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/686a491328c548ad92e752219875f0f5-e9ce784aceaa75e3-full-play.gif">
+    </a>
+  </div>
 
 
 ###  KEY FINDINGS
