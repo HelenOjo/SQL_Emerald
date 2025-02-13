@@ -1,4 +1,5 @@
-https://www.loom.com/share/686a491328c548ad92e752219875f0f5?sid=ed1b8300-3626-4051-b9d0-99a20d62bdc0
+https://www.loom.com/share/686a491328c548ad92e752219875f0f5?sid=bde5695c-461b-4189-8817-003b43cb7d07
+
 ### PROBLEM STATEMENT
 
 #### Emerald Technologies faces employee attrition and performance management challenges, which may affect productivity. The lack of clear insights into turnover causes, promotion fairness, and training program effectiveness hampers talent retention and performance improvement.
@@ -34,14 +35,7 @@ https://www.loom.com/share/686a491328c548ad92e752219875f0f5?sid=ed1b8300-3626-40
 ##### •	Correlation Analysis: Use correlation coefficients to see relationships between salary, training, and performance.
 
 Emerald_SQL Query - Watch Video
-<div>
-    <a href="https://www.loom.com/share/686a491328c548ad92e752219875f0f5">
-      <p>Emerald_SQL Query - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/686a491328c548ad92e752219875f0f5">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/686a491328c548ad92e752219875f0f5-e9ce784aceaa75e3-full-play.gif">
-    </a>
-  </div>
+
 
 
 ###  KEY FINDINGS
