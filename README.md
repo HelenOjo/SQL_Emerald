@@ -33,7 +33,9 @@
 ##### •	 Ranking & Window Functions Use RANK(), DENSE_RANK(), and ROW_NUMBER() to compare employees across departments or job levels.
 ##### •	Correlation Analysis: Use correlation coefficients to see relationships between salary, training, and performance.
 
-https://www.loom.com/share/686a491328c548ad92e752219875f0f5?sid=caa40058-270c-4586-8346-18149c80809e
+Emerald_SQL Query - Watch Video
+
+
 
 ###  KEY FINDINGS
 ##### Employee Tenure & Workforce Structure
