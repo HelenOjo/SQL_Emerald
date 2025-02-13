@@ -1,13 +1,13 @@
-## PROBLEM STATEMENT
-## PROBLEM STATEMENT
-#### Emerald Technologies faces employee attrition and performance management challenges, which may affect productivity. The lack of clear insights into turnover causes, promotion fairness, and training program effectiveness hampers talent retention and performance improvement.
+### PROBLEM STATEMENT
 
-## BUSINESS OBJECTIVE
-#### This analysis aims to
-#### 1.	Identify the main factors influencing employee attrition by examining demographic and job-related trends.
-#### 2.	Assess employee performance trends and provide recommendations for targeted training programs to enhance skills and job satisfaction.
-#### 3.	Evaluate performance trends to ensure that employees in need of support receive appropriate training and development opportunities.
-#### 4.	Inform decision-making processes related to promotions, retention strategies, and employee growth initiatives.
+##### Emerald Technologies faces employee attrition and performance management challenges, which may affect productivity. The lack of clear insights into turnover causes, promotion fairness, and training program effectiveness hampers talent retention and performance improvement.
+
+### BUSINESS OBJECTIVE
+##### This analysis aims to
+##### 1.	Identify the main factors influencing employee attrition by examining demographic and job-related trends.
+##### 2.	Assess employee performance trends and provide recommendations for targeted training programs to enhance skills and job satisfaction.
+##### 3.	Evaluate performance trends to ensure that employees in need of support receive appropriate training and development opportunities.
+##### 4.	Inform decision-making processes related to promotions, retention strategies, and employee growth initiatives.
 
 ## KEY ANALYSIS QUESTIONS 
 #### •	Which departments have the highest attrition rates?
