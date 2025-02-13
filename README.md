@@ -1,4 +1,4 @@
-https://www.loom.com/share/686a491328c548ad92e752219875f0f5?sid=1267ddbd-219d-4399-a82a-d2b2457d93e3
+
 ### PROBLEM STATEMENT
 
 #### Emerald Technologies faces employee attrition and performance management challenges, which may affect productivity. The lack of clear insights into turnover causes, promotion fairness, and training program effectiveness hampers talent retention and performance improvement.
@@ -32,6 +32,8 @@ https://www.loom.com/share/686a491328c548ad92e752219875f0f5?sid=1267ddbd-219d-43
 ##### •	Filtering & Conditions: WHERE and CASE clause to specific condition
 ##### •	 Ranking & Window Functions Use RANK(), DENSE_RANK(), and ROW_NUMBER() to compare employees across departments or job levels.
 ##### •	Correlation Analysis: Use correlation coefficients to see relationships between salary, training, and performance.
+
+<div style="position: relative; padding-bottom: 52.421052631578945%; height: 0;"><iframe src="https://www.loom.com/embed/686a491328c548ad92e752219875f0f5?sid=f72239db-e08c-4431-b2d0-83ee3f5ebb89" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ###  KEY FINDINGS
 ##### Employee Tenure & Workforce Structure
