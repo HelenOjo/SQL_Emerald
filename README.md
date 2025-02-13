@@ -1,4 +1,4 @@
-https://www.loom.com/embed/686a491328c548ad92e752219875f0f5?sid=3f66067b-1d31-417c-93a3-77a800974362
+https://www.loom.com/share/686a491328c548ad92e752219875f0f5?sid=3a184356-9b2b-4acd-9405-5dc9dd38a2c3
 
 ### PROBLEM STATEMENT
 #### Emerald Technologies faces employee attrition and performance management challenges, which may affect productivity. The lack of clear insights into turnover causes, promotion fairness, and training program effectiveness hampers talent retention and performance improvement.
